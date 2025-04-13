@@ -4,3 +4,4 @@ email  caesaranton700@yahoo.de
 date   2025-04-13
 name   External Preview
 desc   Show a preview popup on external link hover
+url    https://github.com/samsoneko/extprev/
