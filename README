@@ -1,3 +1,7 @@
-preview plugin for DokuWiki
+# extprev Plugin
 
-Show a preview popup on link hover
+A DokuWiki Plugin for displaying preview information for external links.
+
+```
+{{extprev>URL}}
+```
